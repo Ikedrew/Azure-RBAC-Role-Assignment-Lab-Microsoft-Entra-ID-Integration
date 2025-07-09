@@ -25,7 +25,7 @@ Create New User For Role Assignment
 ![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/Create%20a%20resource%20group%20-%20Microsoft%20Azure%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2009_07_2025%2001_54_16.png?raw=true)
 RBAC Role Assigned
 ![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/Test-RG-RBAC%20-%20Microsoft%20Azure%20and%207%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2009_07_2025%2002_07_27.png?raw=true)
-Portal View as TestUser1 – read-only view.
+Portal View as TestUser1 in a separate browser – read-only view.
 ![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/Test-RG-RBAC%20-%20Microsoft%20Azure%20-%20%5BInPrivate%5D%20-%20Microsoft%E2%80%8B%20Edge%2009_07_2025%2002_07_48.png?raw=true)
 
 💡 Key Takeaways:
