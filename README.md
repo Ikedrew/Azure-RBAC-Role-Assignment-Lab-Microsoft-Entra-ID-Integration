@@ -1,0 +1,1 @@
+# Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration
