@@ -20,7 +20,7 @@ Confirmed assigned role using the “Check Access” feature in the IAM tab.
 
 🖼️ Screenshots:
 Resource Group Created
-![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/README.md)
+![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/Create%20a%20resource%20group%20-%20Microsoft%20Azure%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2009_07_2025%2001_43_50.png?raw=true)
 Create New User For Role Assignment
 ![image alt](https://github.com/Ikedrew/Azure-RBAC-Role-Assignment-Lab-Microsoft-Entra-ID-Integration/blob/main/Create%20a%20resource%20group%20-%20Microsoft%20Azure%20and%206%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2009_07_2025%2001_54_16.png?raw=true)
 
